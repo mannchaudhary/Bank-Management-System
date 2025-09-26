@@ -6,4 +6,5 @@ IMEI numbers, and insurance numbers. This is a simple code demonstrating how thi
 algorithm works on credit card pins . After authentication you can get access to banking facilities like withdraw,deposit,balance amd loan eligibility.
 
 
-![Sample Output Screenshot](SampleOutput.png) 
+
+<img width="897" height="635" alt="SampleOutput" src="https://github.com/user-attachments/assets/3124c3ff-e471-4c4f-a52c-ac259a3d13f0" />
